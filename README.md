@@ -6,3 +6,4 @@
 2. [Spring Boot 定义异常页面](https://zxianwei.github.io/spring-boot-ding-yi-yi-chang-ye-mian/)
 3. [Spring Boot 使用jsp](https://zxianwei.github.io/spring-boot-shi-yong-jsp/)
 4. [Spring Boot中使用MyBatis详解](https://zxianwei.github.io/spring-boot-zhong-shi-yong-mybatis-xiang-jie/)
+4. [如何在Spring Boot开启事务](https://zxianwei.github.io/ru-he-zai-spring-boot-kai-qi-shi-wu/)
